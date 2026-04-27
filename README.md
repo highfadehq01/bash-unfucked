@@ -225,6 +225,6 @@ The full version includes:
 
 ---
 
-Built by **[High Fade Free](https://highfadefree.vercel.app)** — minimal, precision developer tools.
+Built by **[Sundeck](https://highfadefree.vercel.app)** — Dev tools without bullshit.
 
 *Ship clean. Stay sharp.*
